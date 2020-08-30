@@ -30,7 +30,10 @@ So to prevent we have added 2 layers of security.
 2. Secondly, the User will set the 5digit master pin while storing the password. But the pin is entered by eye pattern i.e if the user looks left pin will be 1, right 2 blinks 3. So using this combination user can store the pin.
    Also, the eye pattern entered by the user like (left, right, blink left blink, etc) is difficult to forget than the difficult password combination used for other password manager applications.
 
-- NOTE : The architecture.py file is used to define and load the pretrained Keras_facenet model as the model was trained on old version of Tensorflow. For to load the model the predefined code was used.
+- NOTE : The architecture.py file is used to define and load the pretrained Keras_facenet model as the model was trained on old version 
+of Tensorflow. For to load the model the predefined code was used.
+
+ # Datasets can be found [here](https://drive.google.com/drive/folders/17NL3yHbIP1SI8-0pEPRPBcA9I3_JfB6_?usp=sharing)
 
 # Demo of the project can be found [here](https://www.youtube.com/watch?v=7NtbEQ0_PFs)
 
